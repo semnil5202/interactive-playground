@@ -48,7 +48,6 @@ module.exports = {
       { varsIgnorePattern: '^_', argsIgnorePattern: '^_' },
     ],
     '@typescript-eslint/no-redeclare': 'error',
-    '@typescript-eslint/consistent-type-imports': 'error',
     'react/jsx-curly-brace-presence': ['error', { props: 'never', children: 'never' }],
     'no-console': ['warn', { allow: ['warn', 'error', 'table'] }],
     'no-undef': 'off',

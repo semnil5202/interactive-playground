@@ -1,3 +1,9 @@
+import { Background } from '@/containers/Background/Background';
+
 export default function Home() {
-  return <div>asdf</div>;
+  return (
+    <main className="mx-auto min-h-screen w-[375px]">
+      <Background />
+    </main>
+  );
 }

@@ -13,6 +13,6 @@
     "source.fixAll": "explicit",
     "source.fixAll.eslint": "explicit",
     "source.addMissingImports": "explicit",
-        "source.organizeImports": "explicit",
+    "source.organizeImports": "explicit"
   }
 }
